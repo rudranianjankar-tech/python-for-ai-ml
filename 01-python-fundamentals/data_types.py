@@ -19,3 +19,5 @@ print({"name":"John","age":30})#searching fast
 
 #user-defined types(oops)
 #class
+
+#comments is a way to explain the code and make it more readable. It is ignored by the interpreter.
